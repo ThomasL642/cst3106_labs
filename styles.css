@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.20;
+    margin: 96px;
+    background-color:white;
+}
+
+a:link {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
