@@ -29,7 +29,7 @@ We use a simple and clear color palette throughout the design.
 ### Content
 - **Design:** Centered section with light grey background.
 - **Mock-up Screenshot:**
-![Content Mock-up](content.png)
+![Content Mock-up](body.png)
 
 ### Footer
 - **Design:** Four centered sections with text on a light grey background.
