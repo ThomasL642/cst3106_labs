@@ -24,7 +24,7 @@ We use a simple and clear color palette throughout the design.
 ### Navigation
 - **Design:** Caput Mortuum background with white text links.
 - **Mock-up Screenshot:**
-![Nav Mock-up](Navigation.png)
+![Nav Mock-up](Navgation.png)
 
 ### Content
 - **Design:** Centered section with light grey background.
