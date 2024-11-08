@@ -11,6 +11,7 @@ class Roll {
     }
 }
 
+
 class RollHistory {
     constructor() {
         this.history = [];
