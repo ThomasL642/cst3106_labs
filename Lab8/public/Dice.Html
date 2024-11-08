@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roll a Dice</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="Dice.js"></script>
+</head>
+<body>
+    <!-- roll button and die -->
+    <button onclick="" id="roll-button">Roll Dice</button>
+    <div>
+        <img id="die1" src="Dice Assets/dice(1).png" alt="Die 1">
+        <img id="die2" src="Dice Assets/dice(1).png" alt="Die 2">
+        <img id="die3" src="Dice Assets/dice(1).png" alt="Die 3">
+        <img id="die4" src="Dice Assets/dice(1).png" alt="Die 4">
+        <img id="die5" src="Dice Assets/dice(1).png" alt="Die 5">
+    </div>
+
+    <script>
+        let rollHistory = new RollHistory();
+        let roll = new Roll();
+
+        const rollButton = document.getElementById('roll-button');
+        const die = document.getElementById('die');
+        rollButton.addEventListener('click', onRollButtonClick);
+
+        function onRollButtonClick() {
+            for (let i = 0; i < 5; i++) {
+                roll.roll(); 
+                rollHistory.addRoll(roll.result); 
+            }
+            const playersroll = rollHistory.getHistory();
+
+
+            playersroll.forEach((number, index) => {
+                const imageElement = document.getElementById("die" + (index + 1));
+                imageElement.src = "Dice Assets/dice(" + number + ").png";
+            });
+            rollHistory.clearHistory();
+            
+        }
+    </script>
+</body>
+</html>
