@@ -25,5 +25,4 @@ div {
 img {
     width: 80px;
     height: 80px;
-    transition: transform 0.3s; /* Smooth transition for hover effect */
 }

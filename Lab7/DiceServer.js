@@ -10,6 +10,7 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname+ "/public/Dice.Html"));
 });
 
+//Listen for port
 app.use('/', router);
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
