@@ -110,8 +110,3 @@ The Hospital Triage App will streamline emergency room operations, offering user
 
 ## GitHub Repository
 [Hospital Triage Design System](https://github.com/ThomasL642/cst3106_labs/tree/Lab-10)
-
----
-
-## Visual Aids
-add mockups
