@@ -24,13 +24,17 @@ The Hospital Triage App will streamline emergency room operations, offering user
 
 ### User Interface:
 - **Dodger Blue** (`#4E9BF9`): Used for primary buttons, titles, and headers.
-- **Platinum** (`#F5F5F5`): Background color for reduced visual strain.
+- **Platinum** (`#F5F5F5`): Background colour for reduced visual strain.
 - **Office Green** (`#206600`): Confirmation actions (e.g., successful submission).
 
+![User interface palette]([https://raw.githubusercontent.com/username/repository/branch/path-to-image.png](https://github.com/ThomasL642/cst3106_labs/blob/Lab-10/Lab%2010/Hospital%20Triage%20Palette.png?raw=true))
+
 ### Admin Interface:
-- **Platinum** (`#F5F5F5`): Background color for reduced visual strain.
+- **Platinum** (`#F5F5F5`): Background colour for reduced visual strain.
 - **Chili Red** (`#ED351D`): Highlights urgent or high-priority actions.
 - **Taupe Grey** (`#948D89`): Subtle accents for navigation menus.
+
+![Admin screen palette]([https://raw.githubusercontent.com/username/repository/branch/path-to-image.png](https://github.com/ThomasL642/cst3106_labs/blob/Lab-10/Lab%2010/Admin%20Interface%20Palette.png?raw=true))
   
 ---
 
@@ -39,11 +43,11 @@ The Hospital Triage App will streamline emergency room operations, offering user
 ### Titles
 - **Patient Interface**: "Hospital Triage - User"
 - **Admin Interface**: "Hospital Triage - Admin"
-  - *Design*: Large, centered, with bold `Arial` for clarity.
+  - *Design*: Large, centred, with bold `Arial` for clarity.
 
 ### Buttons
-- **Shape**: Rounded edges for a modern look.
-- **Hover Effects**: Slight color darkening to indicate interactivity.
+- **Shape**: Rounded edges for a clean look.
+- **Hover Effects**: Slight colour darkening to indicate interactivity.
 - **Size**: Fixed padding for touch-friendly design.
 
 ### Input Fields
@@ -77,9 +81,9 @@ The Hospital Triage App will streamline emergency room operations, offering user
 ---
 
 ## Consistency
-- **Color Usage**: Uniform colors for similar actions across both interfaces.
+- **Color Usage**: Uniform colours for similar actions across both interfaces.
 - **Font Hierarchy**: Distinct styles for headings, subheadings, and body text.
-- **Interactive Elements**: Consistent hover states and click behaviors.
+- **Interactive Elements**: Consistent hover states and click behaviours.
 
 ---
 
@@ -87,6 +91,7 @@ The Hospital Triage App will streamline emergency room operations, offering user
 - **User Submission**:
   - Streamlined form for fast data entry.
   - Intuitive design with minimal scrolling.
+  - Responsive design for to accommodate various devices
 - **Admin Management**:
   - Real-time updates on patient status.
   - Visual indicators (e.g., color codes for urgency).
