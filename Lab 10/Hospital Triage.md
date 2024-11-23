@@ -91,17 +91,16 @@ The Hospital Triage App will streamline emergency room operations, offering user
 - **User Submission**:
   - Streamlined form for fast data entry.
   - Intuitive design with minimal scrolling.
-  - Responsive design for to accommodate various devices
+  - Responsive design to accommodate various devices
 - **Admin Management**:
   - Real-time updates on patient status.
-  - Visual indicators (e.g., color codes for urgency).
+  - Visual indicators (e.g., colour codes for urgency).
 
 ---
 
 ## Accessibility
 - High-contrast colors for readability.
 - Responsive layout for mobile and desktop.
-- ARIA labels for screen readers.
 
 ---
 
