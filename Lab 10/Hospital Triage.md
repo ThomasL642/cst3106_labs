@@ -7,9 +7,9 @@ The Hospital Triage App will streamline emergency room operations, offering user
 
 ## Fonts
 - **Headings and Buttons**: `Arial, sans-serif`
-  - **Reasoning**: Chosen for its clean, modern look and excellent legibility across digital devices. Ideal for prominent elements.
+  - Chosen for its clean, modern look and excellent legibility across digital devices. Ideal for prominent elements.
 - **Body Text**: `Times New Roman, serif`
-  - **Reasoning**: Offers a professional and readable appearance for longer descriptions or forms, distinguishing body text from headings.
+  - Offers a professional and readable appearance for longer descriptions or forms, distinguishing body text from headings.
 
 ### Font Weights:
 - **Arial**:
@@ -23,18 +23,15 @@ The Hospital Triage App will streamline emergency room operations, offering user
 ## Colour Palette
 
 ### User Interface:
-- **Calming Blue** (`#4A90E2`): Used for primary buttons, titles, and headers.
-- **Neutral Grey** (`#F5F5F5`): Background color for reduced visual strain.
-- **Success Green** (`#6FCF97`): Confirmation actions (e.g., successful submission).
+- **Dodger Blue** (`#4E9BF9`): Used for primary buttons, titles, and headers.
+- **Platinum** (`#F5F5F5`): Background color for reduced visual strain.
+- **Office Green** (`#206600`): Confirmation actions (e.g., successful submission).
 
 ### Admin Interface:
-- **Dark Grey** (`#2C3E50`): For primary interface components.
-- **Red Alert** (`#E74C3C`): Highlights urgent or high-priority actions.
-- **Secondary Grey** (`#95A5A6`): Subtle accents for navigation menus.
-
-### Color Swatches:
-![Color Palette](image)
-
+- **Platinum** (`#F5F5F5`): Background color for reduced visual strain.
+- **Chili Red** (`#ED351D`): Highlights urgent or high-priority actions.
+- **Taupe Grey** (`#948D89`): Subtle accents for navigation menus.
+  
 ---
 
 ## App Components
@@ -107,13 +104,9 @@ The Hospital Triage App will streamline emergency room operations, offering user
 - **Thomas Lawrence**
 
 ## GitHub Repository
-[Hospital Triage Design System](link)
+[Hospital Triage Design System](https://github.com/ThomasL642/cst3106_labs/tree/Lab-10)
 
 ---
 
 ## Visual Aids
-Include mockups, screenshots, and diagrams in the GitHub repository for further illustration.
-
----
-
-Feel free to replace placeholder URLs and text with actual resources and data as needed.
+add mockups
