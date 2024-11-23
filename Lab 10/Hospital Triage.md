@@ -27,14 +27,14 @@ The Hospital Triage App will streamline emergency room operations, offering user
 - **Platinum** (`#F5F5F5`): Background colour for reduced visual strain.
 - **Office Green** (`#206600`): Confirmation actions (e.g., successful submission).
 
-![User interface palette]([https://raw.githubusercontent.com/username/repository/branch/path-to-image.png](https://github.com/ThomasL642/cst3106_labs/blob/Lab-10/Lab%2010/Hospital%20Triage%20Palette.png?raw=true))
+![User interface palette](Hospital%20Triage%20Palette.png)
 
 ### Admin Interface:
 - **Platinum** (`#F5F5F5`): Background colour for reduced visual strain.
 - **Chili Red** (`#ED351D`): Highlights urgent or high-priority actions.
 - **Taupe Grey** (`#948D89`): Subtle accents for navigation menus.
 
-![Admin screen palette]([https://raw.githubusercontent.com/username/repository/branch/path-to-image.png](https://github.com/ThomasL642/cst3106_labs/blob/Lab-10/Lab%2010/Admin%20Interface%20Palette.png?raw=true))
+![Admin screen palette](Admin%20Interface%20Palette.png)
   
 ---
 
