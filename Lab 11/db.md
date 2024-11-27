@@ -8,7 +8,7 @@ This entity stores all the data about the patients. It includes personal details
 
 ### Doctor
 
-This entity store all data about the doctors. It includes name and their specialty
+This entity stores all data about the doctors. It includes the name and their specialty
 
 ### Room
 
@@ -42,7 +42,6 @@ This entity contains details about the rooms available for patient care. It trac
 ### Rooms Attributes:
 
 - `Room_id` (integer): A unique identifier for each room.
-- `Doctor_ID` (integer): A unique identifier for the doctor.
 - `capacity` (integer): The room`s capacity
 
 ## Database ERD (Entity-Relationship Diagram)
