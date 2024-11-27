@@ -1,7 +1,7 @@
 # Hospital Triage Database Design Documentation
----
+
 ## Entities Description
----
+
 ### Patients
 
 This entity stores all the data about the patients. It includes personal details and medical triage information.
@@ -15,7 +15,7 @@ This entity store all data about the doctors. It includes name and their special
 This entity contains details about the rooms available for patient care. It tracks the status of each room and the medical personnel assigned.
 
 ## Attributes Specification
----
+
 ### Patients Attributes:
 
 - `Patient_id` (integer): A unique identifier for each patient.
@@ -46,7 +46,7 @@ This entity contains details about the rooms available for patient care. It trac
 - `capacity` (integer): The room`s capacity
 
 ## Database ERD (Entity-Relationship Diagram)
----
+
 
 ![Database Schema](schema.png)
 
